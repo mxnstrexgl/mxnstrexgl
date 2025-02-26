@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mxnstrexgl
-- 👀 I’m interested in tech
+- 👀 I’m interested in threat detection and active response
 - 🌱 I’m currently learning webdev
-- 💞️ I’m looking to collaborate on the power of friendship
-- 📫 How to reach me @monsteradventures insta
+- 💞️ I’m looking to collaborate on the power of cats
+- 📫 How to reach me -.-
 - 😄 Pronouns: ra/wr
 - ⚡ Fun fact: cs1.6 was the greatest game ever
 
